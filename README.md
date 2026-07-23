@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="./portrait.svg" alt="Typing ASCII Art Portrait" width="500"/>
+</p>
 <!--
 **OWAISATIF/OWAISATIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
